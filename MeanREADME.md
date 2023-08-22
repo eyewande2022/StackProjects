@@ -1,4 +1,4 @@
-****MEAN STACK PROJECT IMPLEMENTATION****
+***MEAN STACK PROJECT IMPLEMENTATION***
 
 **The main aim for this project is to explain the DevOps concepts and processes using a MEAN web stack on a simple to-do application. Some developers use this set of framework and tools to develop software products. We would be carrying out this project in the AWS platform and these concepts are very similar to the LAMP,LEMP AND MERN web stack concept.**
 
