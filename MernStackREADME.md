@@ -1,4 +1,4 @@
-**MERN STACK PROJECT IMPLEMENTATION ON A SIMPLE TO-DO APPLICATION**
+# **MERN STACK PROJECT IMPLEMENTATION ON A SIMPLE TO-DO APPLICATION**
 
 
 **The main aim for this project is to explain the DevOps concepts and processes using a MERN web stack on a simple to-do application. Some
