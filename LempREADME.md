@@ -1,4 +1,4 @@
-**LEMP STACK PROJECT IMPLEMENTATION**
+# LEMP STACK PROJECT IMPLEMENTATION
 
 **The main aim for this project is to explain the DevOps concepts and processes using a LEMP web stack. Some developers use this set of framework and tools to develop software products .We would be carrying out this project in the AWS platform**
 
